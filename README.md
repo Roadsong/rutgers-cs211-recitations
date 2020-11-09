@@ -21,3 +21,4 @@ Rutgers Fall 2020 CS211 Computer Architecture recitations slides.
 
 - Week 9 - [video](https://rutgers.zoom.us/rec/play/3bhHl_ibwk-UPfJUhblQw7P_Q15Yqf8p0KtdS2xyW5BbE_hrgoogJPEK6Wxjde3HJWGEFAtbsT9HSwmn.JtVE-WdjVUGSr6Nl)
 
+- Week 10 - [video](https://rutgers.zoom.us/rec/share/G1wCKXyOwmmsJIHUV2ttvOh52k7qQfjNQ92ZxZIT8kh0RP-RvAdL1FFOBDc0sUQB.9Oe0tXGia_mKpZqD)
